@@ -1,2 +1,6 @@
-# 24Jan2026-Flask
-SCTPCoachingSession2
+# flask-app
+
+This is a simple Flask web application.
+
+SCTP Coaching Session 2
+
